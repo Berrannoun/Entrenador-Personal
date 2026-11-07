@@ -1,7 +1,6 @@
 # Práctica: Entrenador Personal
 
-Práctica de programación en Java (Maven + JUnit 5). Se plantea con la misma estructura y dificultad que la práctica
-del recetario, pero con otra temática: un **gestor de rutinas de entrenamiento** con **planificador semanal**.
+Práctica de programación en Java (Maven + JUnit 5). 
 
 ## 1. Objetivo
 
@@ -296,7 +295,4 @@ java -cp target/classes Main 5 5 10 src/test/resources/rutinas_predefinidas.txt
 Antes de empezar, todos los tests fallan (salvo unos pocos que comprueban negativos). El objetivo es que pasen todos
 y que además el código sea limpio.
 
-## 11. Solución de referencia
 
-En la carpeta `solucion/` hay una implementación completa que pasa los 157 tests. No la mires hasta haber hecho
-tu propio intento.
